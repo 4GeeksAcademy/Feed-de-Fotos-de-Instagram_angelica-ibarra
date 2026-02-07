@@ -1,0 +1,13 @@
+.nav-pill .nav-link {
+    color: lightblue;
+}
+
+.nav-pill .nav-link.active {
+    color: lightpink;
+}
+.btn.btn-success.me-2,
+.btn.btn-secondary.dropdown-toggle {
+    background-color: lightpink;
+    border-color: lightpink;
+    }
+
